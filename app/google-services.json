@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "715696083386",
+    "firebase_url": "https://paud-4e28a.firebaseio.com",
+    "project_id": "paud-4e28a",
+    "storage_bucket": "paud-4e28a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715696083386:android:cb6ab3c3ff3501fb",
+        "android_client_info": {
+          "package_name": "com.kemendikbud.paud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715696083386-a67qmp4oh2cdjikc899d3tgre145plm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kemendikbud.paud",
+            "certificate_hash": "c7dc1a9307c04134e9a0ebab5fefca2689de0a00"
+          }
+        },
+        {
+          "client_id": "715696083386-rhufg1red1od8lcf46kmgn8nsj049629.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-G2j3Y8k_9ah9wPsnHTU1tql64iJmYEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715696083386-rhufg1red1od8lcf46kmgn8nsj049629.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
